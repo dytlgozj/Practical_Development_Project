@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a87fabf-a908-44b6-b99e-3faa3d795406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch08_json/json_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch08_json/message1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch08_json/message2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch08_json/open_json_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch09_yaml/message1.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch09_yaml/message2.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch09_yaml/open_yaml_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch09_yaml/realapp_config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch09_yaml/realapp_config2.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch09_yaml/yaml_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch09_yaml/yaml_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/message1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/ascii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/euc-kr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/reading_bindata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/message2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/open_xml_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/xml_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/xml_reader2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/xml_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch12_base64/base64_with_uuid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch12_base64/my_base64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch13_zlib/comp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part2/ch13_zlib/comp_then_decomp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/ch08_json/json_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/part2/ch08_json/json_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2/ch10_xml/message1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part2/ch10_xml/message1.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.YAML"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.YAML&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.open_yaml_file">
-    <configuration name="json_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.reading_bindata">
+    <configuration name="open_xml_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch08_json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch08_json/json_reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/open_xml_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reading_bindata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch08_json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch01_encoding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch08_json/json_writer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch01_encoding/reading_bindata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="open_yaml_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xml_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch09_yaml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch09_yaml/open_yaml_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/xml_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="yaml_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xml_reader2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch09_yaml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch09_yaml/yaml_reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/xml_reader2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="yaml_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xml_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch09_yaml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch09_yaml/yaml_writer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/xml_writer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.open_yaml_file" />
-        <item itemvalue="Python.yaml_reader" />
-        <item itemvalue="Python.yaml_writer" />
-        <item itemvalue="Python.json_writer" />
-        <item itemvalue="Python.json_reader" />
+        <item itemvalue="Python.reading_bindata" />
+        <item itemvalue="Python.xml_writer" />
+        <item itemvalue="Python.xml_reader2" />
+        <item itemvalue="Python.xml_reader" />
+        <item itemvalue="Python.open_xml_file" />
       </list>
     </recent_temporary>
   </component>
