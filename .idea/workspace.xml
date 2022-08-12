@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a87fabf-a908-44b6-b99e-3faa3d795406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/ascii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/euc-kr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/reading_bindata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/message2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/open_xml_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/xml_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/xml_reader2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch10_xml/xml_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch12_base64/base64_with_uuid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch12_base64/my_base64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch13_zlib/comp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/ch13_zlib/comp_then_decomp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch02_multi_language/i18n_multilang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch02_multi_language/i18n_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/monotonic_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/real_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/timestamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/timezone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch04_regex/check_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch04_regex/regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch04_regex/split.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/ch10_xml/message1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/part2/ch10_xml/message1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/ascii.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/ascii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/euc-kr.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/euc-kr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/utf-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/utf-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +52,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.YAML&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.reading_bindata">
-    <configuration name="open_xml_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.timezone">
+    <configuration name="i18n_multilang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch02_multi_language" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/open_xml_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch02_multi_language/i18n_multilang.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reading_bindata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="monotonic_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch01_encoding" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch01_encoding/reading_bindata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/monotonic_time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xml_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="real_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/xml_reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/real_time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xml_reader2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="timestamp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/xml_reader2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/timestamp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xml_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="timezone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2/ch10_xml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2/ch10_xml/xml_writer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/timezone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.reading_bindata" />
-        <item itemvalue="Python.xml_writer" />
-        <item itemvalue="Python.xml_reader2" />
-        <item itemvalue="Python.xml_reader" />
-        <item itemvalue="Python.open_xml_file" />
+        <item itemvalue="Python.timezone" />
+        <item itemvalue="Python.real_time" />
+        <item itemvalue="Python.monotonic_time" />
+        <item itemvalue="Python.timestamp" />
+        <item itemvalue="Python.i18n_multilang" />
       </list>
     </recent_temporary>
   </component>
