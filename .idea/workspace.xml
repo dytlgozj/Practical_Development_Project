@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a87fabf-a908-44b6-b99e-3faa3d795406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/part1/ch02_multi_language/i18n_multilang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch02_multi_language/i18n_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/monotonic_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/real_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/timestamp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch03_date_and_time/timezone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch04_regex/check_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch04_regex/regex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/ch04_regex/split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch05_uuid/fixed_uuid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch05_uuid/random_uuid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch05_uuid/web_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch06_random_num/fixed_random_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch06_random_num/performance_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch06_random_num/random_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch06_random_num/secure_random_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch06_random_num/shuffle_bag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch07_hash_func/hash_performance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch07_hash_func/md5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch07_hash_func/sha1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch07_hash_func/sha2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/ch07_hash_func/verify_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/ascii.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/ascii.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/euc-kr.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/euc-kr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/utf-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/ch01_encoding/utf-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch01_encoding/utf-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/ch04_regex/check_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch04_regex/check_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/ch04_regex/regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch04_regex/regex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part1/ch04_regex/split.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/ch04_regex/split.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +47,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.YAML&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Python.timezone">
-    <configuration name="i18n_multilang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.secure_random_value">
+    <configuration name="fixed_random_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch02_multi_language" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch06_random_num" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch02_multi_language/i18n_multilang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch06_random_num/fixed_random_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="monotonic_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fixed_uuid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch05_uuid" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/monotonic_time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch05_uuid/fixed_uuid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="real_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="random_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch06_random_num" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/real_time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch06_random_num/random_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timestamp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="secure_random_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch06_random_num" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/timestamp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch06_random_num/secure_random_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timezone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="web_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practical_Development_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch03_date_and_time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part1/ch05_uuid" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch03_date_and_time/timezone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part1/ch05_uuid/web_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.timezone" />
-        <item itemvalue="Python.real_time" />
-        <item itemvalue="Python.monotonic_time" />
-        <item itemvalue="Python.timestamp" />
-        <item itemvalue="Python.i18n_multilang" />
+        <item itemvalue="Python.secure_random_value" />
+        <item itemvalue="Python.fixed_random_value" />
+        <item itemvalue="Python.random_value" />
+        <item itemvalue="Python.fixed_uuid" />
+        <item itemvalue="Python.web_server" />
       </list>
     </recent_temporary>
   </component>
