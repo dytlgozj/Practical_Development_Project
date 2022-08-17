@@ -3,7 +3,6 @@ import uuid
 
 from google.protobuf import text_format
 from google.protobuf import json_format
-import json
 
 
 def create_new_msg():
